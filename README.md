@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/pjurica6/TestDevops/_apis/build/status/Juric.pipelines-java?branchName=master)](https://dev.azure.com/pjurica6/TestDevops/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
